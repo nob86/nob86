@@ -1,6 +1,6 @@
 Hola, soy Gustavo Dalla Croce 👋
 
-Soy desarrollador Full Stack con experiencia en JavaScript, Python y React. Me apasiona construir aplicaciones web eficientes y dinámicas, trabajando tanto en equipo como de manera independiente para lograr resultados de alta calidad.
+Soy desarrollador Full Stack🧑🏼‍💻 con experiencia en JavaScript, Python y React. Me apasiona construir aplicaciones web eficientes y dinámicas, trabajando tanto en equipo como de manera independiente para lograr resultados de alta calidad.
 
 🚀 Habilidades
 Frontend: React, HTML, CSS
